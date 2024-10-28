@@ -2,6 +2,7 @@ public class Sample
 {
 public static void main(String args[])
 {
-System.out.println("mavurapu anitha");
+System.out.println("anitha mavurapu");
 }
 }
+
